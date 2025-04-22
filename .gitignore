@@ -1,0 +1,33 @@
+# Compilación
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Archivos temporales y de log
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Carpetas de build y debugging
+/build/
+Debug/
+Release/
+
+# Archivos de entorno
+*.env
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+ehthumbs.db
+desktop.ini
